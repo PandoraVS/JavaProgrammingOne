@@ -1,15 +1,15 @@
-/*
- *Program to display a reversed string
- *
- * @author Sherri Oliven
- */
 package Chapter5;
 
 import java.util.Scanner;
 
-
-public class C5_46 {
 /**
+ * Program to display a reversed string
+ *
+ * @author Sherri Oliven
+ */
+public class C5_46 {
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt

@@ -1,12 +1,12 @@
-/*
- * Program to determine if a password is valid or invalid
- *
- * @author Sherri Oliven
- */
 package Chapter6;
 
 import java.util.Scanner;
 
+/**
+ * Program to determine if a password is valid or invalid
+ *
+ * @author Sherri Oliven
+ */
 public class C6_18 {
 
     /**
@@ -14,7 +14,6 @@ public class C6_18 {
      *
      * @param args arguments from command ling prompt
      */
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -28,6 +27,12 @@ public class C6_18 {
 
     }
 
+    /**
+     * Method to check the validity of password
+     *
+     * @param password the password entered from user
+     * @return true if valid or false if not valid
+     */
     public static boolean validPass(String password) {
         int numcount = 0;
         if (password.length() < 8) {

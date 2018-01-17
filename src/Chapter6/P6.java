@@ -1,12 +1,12 @@
-/*
- * Program to convert dollars to another currency
- * 
- * @author Sherri Oliven
- */
 package Chapter6;
 
 import java.util.Scanner;
 
+/**
+ * Program to convert dollars to another currency
+ *
+ * @author Sherri Oliven
+ */
 public class P6 {
 
     /**
@@ -15,7 +15,6 @@ public class P6 {
      * @param args arguments from command line prompt
      *
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         //implementing a stop variable
@@ -67,6 +66,13 @@ public class P6 {
         }
     }
 
+    /**
+     * Method Conversion converts dollars entered by user to currency requested
+     *
+     * @param d dollars entered by user
+     * @param c currency user wants to convert to
+     * @return the final total in currency requested
+     */
     public static double Conversion(double d, double c) {
         double fee;
         double finalTotal;

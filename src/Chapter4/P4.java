@@ -8,13 +8,12 @@ import java.util.Scanner;
  * @author Sherri Oliven
  */
 public class P4 {
-      /**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
      */
-
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("What is the name of the first bidder?: ");

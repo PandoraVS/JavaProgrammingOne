@@ -7,15 +7,13 @@ import java.util.Scanner;
  *
  * @author Sherri Oliven
  */
-
 public class C4_22 {
-      /**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
      */
-
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -7,15 +7,13 @@ import java.util.Scanner;
  *
  * @author Sherri Oliven
  */
-
 public class C4_18 {
-      /**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
      */
-
-
     public static void main(String[] args) {
 
         System.out.print("Enter two Characters: ");

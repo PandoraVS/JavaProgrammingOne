@@ -1,12 +1,12 @@
-/*
- * Program to enter, count, and display votes
- *
- * @author Sherri Oliven
- */
 package Chapter5;
 
 import java.util.Scanner;
 
+/**
+ * Program to enter, count, and display votes
+ *
+ * @author Sherri Oliven
+ */
 public class P5 {
 
     /**
