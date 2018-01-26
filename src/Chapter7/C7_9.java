@@ -40,6 +40,8 @@ public class C7_9 {
      * Main to find the minimum value in the array
      *
      * @param Array filled in by the user
+     * 
+     * @return min returns the minimum value of the elements
      */
     public static double minimum(double[] Array) {
         double min = Array[0];

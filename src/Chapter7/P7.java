@@ -32,7 +32,7 @@ public class P7 {
      * Method to Fill the array
      *
      *
-     * @param Scanner input is the input given by the user
+     * @param  input is the input given by the user
      * @param mylist is the empty array with declared number of elements
      *
      */
@@ -43,7 +43,7 @@ public class P7 {
     }
 
     /**
-     * Method to
+     * Method to gather the average value of the elements in the array
      *
      * @param mylist to get all the elements in the list to get the average
      * @return the sum of the elements divided by the length for the average

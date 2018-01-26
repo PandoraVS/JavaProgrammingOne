@@ -1,9 +1,9 @@
+package Chapter8;
 /**
  * Program to list the employees hours during the week
  *
  * @author Sherri Oliven
  */
-package Chapter8;
 
 public class C8_4 {
 
